@@ -1,3 +1,5 @@
+Original Repository: https://github.com/jonathanmasci/ShapeNet_data_preparation_toolbox
+
 # ShapeNet Data Preparation Toolbox
 Matlab toolbox to prepare datasets for ShapeNet as described in
 *ShapeNet: Convolutional Neural Networks on Non-Euclidean Manifolds*
